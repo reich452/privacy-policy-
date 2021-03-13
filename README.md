@@ -1,2 +1,2 @@
-# privacy-policy-
+# privacy-policy
 Privacy policy info.
